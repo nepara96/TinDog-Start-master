@@ -80,6 +80,9 @@ p {
     padding: 5%;
 }
 
+.icons {
+    color: #fff;
+}
 .icon {
     color: #ef8172;
     margin-bottom: 1rem;
